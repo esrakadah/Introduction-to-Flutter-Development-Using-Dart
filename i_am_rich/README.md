@@ -1,16 +1,12 @@
-# i_am_rich
+# 💎 I Am Rich
 
-A new Flutter project.
+A copy/similar app to I Am Rich. The real I Am Rich app is an iOS application developed by Armin Heinrich and which was distributed using the App Store. It was being sold on the App Store for $999,99 which, at the time, was the highest price Apple allowed.
 
-## Getting Started
+## Covers
 
-This project is a starting point for a Flutter application.
+- 👉 Creating a New Flutter Project from Scratch
+- 👉 Scaffolding a Material App
+- 👉 Working with Assets in Flutter & the Pubspec File
+- 👉 How to Add App Icons to the iOS and Android Projects
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌏 [App Icon Generator for iPhone, iPad, watchOS, macOS, and Android](https://appicon.co/)
