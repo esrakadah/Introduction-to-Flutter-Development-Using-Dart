@@ -1,16 +1,15 @@
-# i_am_poor
+# 🪨 I Am Poor
 
-A new Flutter project.
+An opposite app to I Am Rich. Repating the things alone.
 
-## Getting Started
+## Covers
 
-This project is a starting point for a Flutter application.
+- 👉 Creating a New Flutter Project from Scratch
+- 👉 Scaffolding a Material App
+- 👉 Working with Assets in Flutter & the Pubspec File
+- 👉 How to Add App Icons to the iOS and Android Projects
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌏 [App Icon Generator for iPhone, iPad, watchOS, macOS, and Android](https://appicon.co/)
+- 🌏 [Icons8 - Free vectors, icons, images, and illustrations](https://icons8.com/illustrations)
+- 🌏 [Vecteezy - Free vectors, icons, images, and illustrations](https://www.vecteezy.com/)
+- 🌏 [Canva - Free vectors, icons, images, and illustrations and you can create yourself](https://www.canva.com/)
